@@ -1,4 +1,4 @@
-# Project Title
+# Autonomous controlling system for structural health monitoring wireless sensor networks
 
 This project Contains the files and experimental results of an academic paper.
 
